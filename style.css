@@ -104,3 +104,10 @@ li {
   margin-top: 0.5rem;
   font-size: 80%;
 }
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 100,
+  'GRAD' -25,
+  'opsz' 48
+}
